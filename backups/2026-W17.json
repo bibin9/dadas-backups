@@ -1,0 +1,1532 @@
+{
+  "version": 1,
+  "timestamp": "2026-04-26T17:15:14.081Z",
+  "counts": {
+    "users": 1,
+    "members": 40,
+    "memberGroups": 1,
+    "events": 2,
+    "eventDues": 34,
+    "payments": 38,
+    "purchases": 0,
+    "purchaseSplits": 0
+  },
+  "data": {
+    "users": [
+      {
+        "id": "72d8b37337b4cb3b1272fdd3",
+        "username": "admin",
+        "passwordHash": "$2b$10$.BmEUBd1w0LL.o3OlyTpuuFzSJEQNjXjpVz8euzuQFK8DFrTgIHFG",
+        "createdAt": "2026-04-11T12:39:04.634Z"
+      }
+    ],
+    "members": [
+      {
+        "id": "cmnu0xuwv0000j8lurjzyuhox",
+        "name": "Bibin",
+        "phone": "0552872238",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:39:28.831Z"
+      },
+      {
+        "id": "cmnu0ypg30001j8lufje07lob",
+        "name": "Biju",
+        "phone": "0508588573",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:40:08.403Z"
+      },
+      {
+        "id": "cmnu0z98b0002j8lusuqw31tl",
+        "name": "Sudeesh",
+        "phone": "0558403588",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:40:34.043Z"
+      },
+      {
+        "id": "cmnu1iy0d000bj8lu34mbyt9q",
+        "name": "Johnson",
+        "phone": "0505441152",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:55:52.621Z"
+      },
+      {
+        "id": "cmnu1jfhw000cj8lus04fsbk0",
+        "name": "Udayan ",
+        "phone": "0551024824",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:56:15.284Z"
+      },
+      {
+        "id": "cmnu1k20b000dj8luy9mnlxsb",
+        "name": "Ajesh",
+        "phone": "0503677434",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:56:44.459Z"
+      },
+      {
+        "id": "cmnu1kwev000ej8lu1glgh3tn",
+        "name": "Alan",
+        "phone": "",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:57:23.863Z"
+      },
+      {
+        "id": "cmnu1lgqh000fj8luxwsft303",
+        "name": "Anas",
+        "phone": "0508743775",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:57:50.201Z"
+      },
+      {
+        "id": "cmnu1lvix000gj8luj6cqgz3k",
+        "name": "Andrew",
+        "phone": "0556844435",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:58:09.369Z"
+      },
+      {
+        "id": "cmnu1mawy000hj8lu9lljq726",
+        "name": "Arjun",
+        "phone": "0582998096",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:58:29.314Z"
+      },
+      {
+        "id": "cmnu1mwn7000ij8lumxya3nux",
+        "name": "Arun",
+        "phone": "0552155182",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:58:57.475Z"
+      },
+      {
+        "id": "cmnu1ns4r000jj8lutsm817bz",
+        "name": "Hari",
+        "phone": "0554966230",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:59:38.283Z"
+      },
+      {
+        "id": "cmnu1o6yu000kj8lum5fqj3dh",
+        "name": "Nikhil",
+        "phone": "0504140633",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T07:59:57.510Z"
+      },
+      {
+        "id": "cmnu1onkn000lj8lukmdinieu",
+        "name": "Noufal",
+        "phone": "0553379677",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:00:19.031Z"
+      },
+      {
+        "id": "cmnu1p222000mj8lu2o4e3hvb",
+        "name": "Saju",
+        "phone": "0561321836",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:00:37.802Z"
+      },
+      {
+        "id": "cmnu1phyj000nj8lunk52zmng",
+        "name": "Sebin",
+        "phone": "0526017417",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:00:58.411Z"
+      },
+      {
+        "id": "cmnu1qa4c000oj8lu9gfqb115",
+        "name": "Shinoj",
+        "phone": "0564792830",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:01:34.908Z"
+      },
+      {
+        "id": "cmnu1qrhc000pj8luwng1qp6v",
+        "name": "Sijo",
+        "phone": "0559417184",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:01:57.408Z"
+      },
+      {
+        "id": "cmnu1r8jk000qj8luon0nd2aq",
+        "name": "Sudeer",
+        "phone": "0504542157",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:02:19.520Z"
+      },
+      {
+        "id": "cmnu1rkgb000rj8luuk6qrj3n",
+        "name": "Thivaz",
+        "phone": "0501254536",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:02:34.955Z"
+      },
+      {
+        "id": "cmnu1rx3c000sj8luenv22wta",
+        "name": "Vahid",
+        "phone": "0569852717",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:02:51.336Z"
+      },
+      {
+        "id": "cmnu1sgdx000tj8lu26ua6tb8",
+        "name": "Madhu",
+        "phone": "0554966250",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:03:16.341Z"
+      },
+      {
+        "id": "cmnu1stu5000uj8luhwwgcm6y",
+        "name": "Sabari",
+        "phone": "0507644078",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:03:33.774Z"
+      },
+      {
+        "id": "cmnu1tanp000vj8luc0npjafx",
+        "name": "Prakash",
+        "phone": "0509750723",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:03:55.573Z"
+      },
+      {
+        "id": "cmnu1txzg000wj8luxcd655zl",
+        "name": "Pratheesh",
+        "phone": "0558773462",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:04:25.804Z"
+      },
+      {
+        "id": "cmnu1ui19000xj8luiwqlgzmg",
+        "name": "Praveen",
+        "phone": "053612949",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:04:51.789Z"
+      },
+      {
+        "id": "cmnu1uv1l000yj8lukg6e80fm",
+        "name": "Sreekanth",
+        "phone": "0501437875",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:05:08.649Z"
+      },
+      {
+        "id": "cmnu1v624000zj8lukqx31sre",
+        "name": "Krishna",
+        "phone": "",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:05:22.924Z"
+      },
+      {
+        "id": "cmnu1vki70010j8lus16i5f9y",
+        "name": "Vivek",
+        "phone": "0564524692",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:05:41.647Z"
+      },
+      {
+        "id": "cmnu1vw4m0011j8luusi62dcy",
+        "name": "Rosh",
+        "phone": "0564557150",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:05:56.710Z"
+      },
+      {
+        "id": "cmnu1wa7n0012j8luegqs1hxz",
+        "name": "Vineeth",
+        "phone": "0564656502",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:06:14.964Z"
+      },
+      {
+        "id": "cmnu1wvjm0013j8lu3vyyi5sy",
+        "name": "Dillu",
+        "phone": "0562820921",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:06:42.610Z"
+      },
+      {
+        "id": "cmnu1x6bx0014j8luged0grba",
+        "name": "Eby",
+        "phone": "",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:06:56.589Z"
+      },
+      {
+        "id": "cmnu29kfz0015j8lutmbeykvs",
+        "name": "Pramod",
+        "phone": "0569775944",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T08:16:34.751Z"
+      },
+      {
+        "id": "cmnulo3by000004l2bd5qy3b3",
+        "name": "Nithin",
+        "phone": "0503301233",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T17:19:45.118Z"
+      },
+      {
+        "id": "cmnuloh9x000104l23n019nme",
+        "name": "Vishnu Andrew",
+        "phone": "",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-11T17:20:03.189Z"
+      },
+      {
+        "id": "cmnwoemrw000104l7ff854pq3",
+        "name": "Shine",
+        "phone": "",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-13T04:11:54.957Z"
+      },
+      {
+        "id": "cmo6nvh5n000204kvqsxrlmi7",
+        "name": "Varun",
+        "phone": "0543899112",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-04-20T03:54:42.971Z"
+      },
+      {
+        "id": "cmodtygpx000304lbr05rpidj",
+        "name": "Mujeeb",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-04-25T04:19:23.301Z"
+      },
+      {
+        "id": "cmodzq1lx000004lavwk5wi16",
+        "name": "Mujeeb",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-04-25T07:00:48.165Z"
+      }
+    ],
+    "memberGroups": [
+      {
+        "id": "cmnw6zjfi000004l11r4m5zi7",
+        "name": "BigTicket",
+        "createdAt": "2026-04-12T20:04:17.310Z"
+      }
+    ],
+    "memberGroupMembers": [
+      {
+        "id": "cmo8yvahv001u04l2o4ycxton",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox"
+      },
+      {
+        "id": "cmo8yvahv001v04l2wm24ymtm",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu0ypg30001j8lufje07lob"
+      },
+      {
+        "id": "cmo8yvahv001w04l295e00tv7",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl"
+      },
+      {
+        "id": "cmo8yvahv001x04l21b2v3ps2",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1iy0d000bj8lu34mbyt9q"
+      },
+      {
+        "id": "cmo8yvahv001y04l2cnkq46ic",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1jfhw000cj8lus04fsbk0"
+      },
+      {
+        "id": "cmo8yvahv001z04l2uxqfwz69",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1k20b000dj8luy9mnlxsb"
+      },
+      {
+        "id": "cmo8yvahv002004l2sycbe2ct",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1lgqh000fj8luxwsft303"
+      },
+      {
+        "id": "cmo8yvahv002104l2ajrqxkap",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k"
+      },
+      {
+        "id": "cmo8yvahv002204l2gwsdg058",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz"
+      },
+      {
+        "id": "cmo8yvahv002304l26fioy9rq",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh"
+      },
+      {
+        "id": "cmo8yvahv002404l2vwln7eip",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1onkn000lj8lukmdinieu"
+      },
+      {
+        "id": "cmo8yvahv002504l25sov854n",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb"
+      },
+      {
+        "id": "cmo8yvahv002604l2bhwk6ogm",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq"
+      },
+      {
+        "id": "cmo8yvahv002704l2rzaxbo92",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1rkgb000rj8luuk6qrj3n"
+      },
+      {
+        "id": "cmo8yvahv002804l2cb2j0hmd",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1sgdx000tj8lu26ua6tb8"
+      },
+      {
+        "id": "cmo8yvahv002904l2gc247r0o",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1stu5000uj8luhwwgcm6y"
+      },
+      {
+        "id": "cmo8yvahv002a04l2w0jt8ssz",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1txzg000wj8luxcd655zl"
+      },
+      {
+        "id": "cmo8yvahv002b04l2svz825be",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg"
+      },
+      {
+        "id": "cmo8yvahv002c04l2jh4wucu1",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu1uv1l000yj8lukg6e80fm"
+      },
+      {
+        "id": "cmo8yvahv002d04l2792i14j0",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs"
+      },
+      {
+        "id": "cmo8yvahv002e04l2yp0fz8gw",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "memberId": "cmnwoemrw000104l7ff854pq3"
+      }
+    ],
+    "events": [
+      {
+        "id": "cmobtccok000204jpjy4evqjv",
+        "name": "Football Match",
+        "type": "match",
+        "date": "2026-04-23T00:00:00.000Z",
+        "perHeadFee": 20,
+        "totalCost": 350,
+        "notes": "Surplus AED 300.00 to DADAS FC fund",
+        "createdAt": "2026-04-23T18:26:39.284Z"
+      },
+      {
+        "id": "cmodzq1tv000104lak1tseznc",
+        "name": "Football Match",
+        "type": "match",
+        "date": "2026-04-25T00:00:00.000Z",
+        "perHeadFee": 20,
+        "totalCost": 300,
+        "notes": "Surplus AED 340.00 to DADAS FC fund",
+        "createdAt": "2026-04-25T07:00:48.451Z"
+      }
+    ],
+    "eventDues": [
+      {
+        "id": "cmoe0s78b001w04l2vwlkxm4g",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b001x04l2tmpdrsg7",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b001y04l2ivmp22bs",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1mwn7000ij8lumxya3nux",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b001z04l2j9lna5zq",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002004l2hnyg8nd1",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002104l2sq2yf0nf",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002204l25x88ot8k",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002304l25iq7dzft",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002404l2ntn5gbd2",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002504l20p0eruoy",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002604l233e5r8q4",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002704l2jsvkc4tp",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002804l2zwrv5k0c",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002904l27a6rcq6q",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002a04l26b9tmp0d",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002b04l2fnak1ihl",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe0s78b002c04l263d9ts7r",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "memberId": "cmnu1rkgb000rj8luuk6qrj3n",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw3z000004k3rb9z1e9m",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000104k3rft4yhoe",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000204k3esli4s30",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000304k35ryb02yy",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000404k3f0ktb9wa",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000504k3p8u88tvy",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000604k33s5dl9ky",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000704k3v2h7xqp0",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000804k3ga1cy29p",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000904k3tg0il54v",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000a04k38jelx92r",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000b04k31deplqj7",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000c04k3kb5ljgf2",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000d04k32yasjwo0",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000e04k3uu7cy6rp",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnu1rkgb000rj8luuk6qrj3n",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000f04k303z4duir",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmnuloh9x000104l23n019nme",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmoe1tw40000g04k3z75b7vig",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "memberId": "cmodzq1lx000004lavwk5wi16",
+        "amount": 20,
+        "paid": false
+      }
+    ],
+    "eventExpenses": [],
+    "companyIncomes": [
+      {
+        "id": "cmo3vcsvb000v04lgt6pjx0sy",
+        "description": "Dadas Football fund",
+        "amount": 3983,
+        "category": "other",
+        "date": "2026-04-18T00:00:00.000Z",
+        "reference": "",
+        "notes": "",
+        "eventId": null,
+        "createdAt": "2026-04-18T05:00:50.087Z"
+      }
+    ],
+    "purchases": [],
+    "purchaseSplits": [],
+    "payments": [
+      {
+        "id": "cmobtccad000004jpdqqpk3v2",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 150,
+        "method": "cash",
+        "reference": "Carry forward from settled match",
+        "notes": "Auto-carried excess payment",
+        "date": "2026-04-16T00:00:00.000Z",
+        "eventId": null,
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:26:38.774Z"
+      },
+      {
+        "id": "cmobtccae000104jpanw53kkx",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 5,
+        "method": "cash",
+        "reference": "Carry forward from settled match",
+        "notes": "Auto-carried excess payment",
+        "date": "2026-04-16T00:00:00.000Z",
+        "eventId": null,
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:26:38.774Z"
+      },
+      {
+        "id": "cmobtcdxp000i04jpn9il2dn2",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Football Match - 4/23/2026",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:26:40.909Z"
+      },
+      {
+        "id": "cmobthsl5001004jp7u9b1bg8",
+        "memberId": "cmnu1mwn7000ij8lumxya3nux",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:30:53.177Z"
+      },
+      {
+        "id": "cmobti38d001104jp8ic3v2rh",
+        "memberId": "cmnu1rkgb000rj8luuk6qrj3n",
+        "amount": 100,
+        "method": "cash",
+        "reference": "Adjusted: +80.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:31:06.973Z"
+      },
+      {
+        "id": "cmobtigax001204jp5u4ajbez",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 50,
+        "method": "cash",
+        "reference": "Adjusted: +30.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:31:23.913Z"
+      },
+      {
+        "id": "cmobtilol001304jp1mnh1gf0",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Adjusted: +30.00 carry forward",
+        "notes": "50-30 big ticket",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:31:30.885Z"
+      },
+      {
+        "id": "cmobtis88001404jp0xo2sozu",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Adjusted: +30.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:31:39.368Z"
+      },
+      {
+        "id": "cmobtjvwj001504jpfkn9yts7",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:32:30.787Z"
+      },
+      {
+        "id": "cmobtnpcl001604jplwlos7bp",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:35:28.917Z"
+      },
+      {
+        "id": "cmobughf1000004la53utl1xf",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 50,
+        "method": "cash",
+        "reference": "Adjusted: +30.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-23T18:57:51.661Z"
+      },
+      {
+        "id": "cmod2gf9t000004l7yigq4o3c",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 40,
+        "method": "cash",
+        "reference": "Adjusted: +20.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:29:31.986Z"
+      },
+      {
+        "id": "cmod2i00y000104l7b2ywjrv5",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:30:45.538Z"
+      },
+      {
+        "id": "cmod2i8me000204l7c94mvvae",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Adjusted: -20.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:30:56.678Z"
+      },
+      {
+        "id": "cmod2ilgc000304l7q6f85q5a",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Adjusted: -20.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:31:13.308Z"
+      },
+      {
+        "id": "cmod2iv42000404l75tggckh7",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:31:25.826Z"
+      },
+      {
+        "id": "cmod2j5vm000504l73yqc81ip",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:31:39.778Z"
+      },
+      {
+        "id": "cmod2je6z000604l79xt2tnoy",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Adjusted: -20.00 carry forward",
+        "notes": "",
+        "date": "2026-04-23T00:00:00.000Z",
+        "eventId": "cmobtccok000204jpjy4evqjv",
+        "category": "dadas",
+        "createdAt": "2026-04-24T15:31:50.555Z"
+      },
+      {
+        "id": "cmodtsje5000004lbftzzw4ir",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 60,
+        "method": "cash",
+        "reference": "Carry forward from settled match",
+        "notes": "Auto-carried excess payment",
+        "date": "2026-04-18T00:00:00.000Z",
+        "eventId": null,
+        "category": "dadas",
+        "createdAt": "2026-04-25T04:14:46.829Z"
+      },
+      {
+        "id": "cmodtsjhg000104lbygwtz5hs",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 50,
+        "method": "bank_transfer",
+        "reference": "Carry forward from settled match",
+        "notes": "Auto-carried excess payment",
+        "date": "2026-04-18T00:00:00.000Z",
+        "eventId": null,
+        "category": "dadas",
+        "createdAt": "2026-04-25T04:14:46.829Z"
+      },
+      {
+        "id": "cmodtsjhg000204lbq65j2yi2",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 60,
+        "method": "cash",
+        "reference": "Carry forward from settled match",
+        "notes": "Auto-carried excess payment",
+        "date": "2026-04-18T00:00:00.000Z",
+        "eventId": null,
+        "category": "dadas",
+        "createdAt": "2026-04-25T04:14:46.829Z"
+      },
+      {
+        "id": "cmoe1twok000h04k3xk1t3az9",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000i04k33blfxq40",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": -20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000j04k3j7i9qr58",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000k04k33ms0o54l",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 10,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000l04k3lf1c5ey9",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000m04k3tmcpwra6",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
+        "amount": 50,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000n04k3ycgz32zy",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "amount": 40,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000o04k3cg0o0ju7",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000p04k3yuz5dmcf",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000q04k3n1c3wg5p",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000r04k3dxcg45kt",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000s04k349mgubgn",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000t04k3m2o3mpb4",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000u04k3cbgfi26l",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000v04k34r18v4oy",
+        "memberId": "cmnu1rkgb000rj8luuk6qrj3n",
+        "amount": -30,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000w04k3bgsb9fdx",
+        "memberId": "cmnuloh9x000104l23n019nme",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      },
+      {
+        "id": "cmoe1twok000x04k31pjoh8gq",
+        "memberId": "cmodzq1lx000004lavwk5wi16",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 4/25/2026",
+        "notes": "",
+        "date": "2026-04-25T00:00:00.000Z",
+        "eventId": "cmodzq1tv000104lak1tseznc",
+        "category": "dadas",
+        "createdAt": "2026-04-25T07:59:47.636Z"
+      }
+    ],
+    "eventTemplates": [
+      {
+        "id": "cmo5p4byk000004lbgjfdlc6v",
+        "name": "Monthly BigTicket",
+        "type": "purchase",
+        "amount": 30,
+        "amountType": "perhead",
+        "groupId": "cmnw6zjfi000004l11r4m5zi7",
+        "notes": "",
+        "createdAt": "2026-04-19T11:41:49.580Z"
+      }
+    ],
+    "playerSkills": [
+      {
+        "id": "cmo5dcpfu000004jy70tk4x5c",
+        "memberId": "cmnu1k20b000dj8luy9mnlxsb",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:12:24.907Z",
+        "updatedAt": "2026-04-19T06:12:24.907Z"
+      },
+      {
+        "id": "cmo5ddcfn000004l17gjhatao",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "skillTier": "silver",
+        "ageGroup": "over50",
+        "position": "goalkeeper",
+        "createdAt": "2026-04-19T06:12:54.707Z",
+        "updatedAt": "2026-04-24T16:54:42.096Z"
+      },
+      {
+        "id": "cmo5ddyd1000104jyd40wpi7m",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "skillTier": "master",
+        "ageGroup": "veteran",
+        "position": "any",
+        "createdAt": "2026-04-19T06:13:23.125Z",
+        "updatedAt": "2026-04-20T03:52:53.739Z"
+      },
+      {
+        "id": "cmo5dekyj000204jy0u0thz8n",
+        "memberId": "cmnu1mawy000hj8lu9lljq726",
+        "skillTier": "silver",
+        "ageGroup": "age30to40",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:13:52.411Z",
+        "updatedAt": "2026-04-24T16:55:10.776Z"
+      },
+      {
+        "id": "cmo5df0yd000104l1f4f7b3li",
+        "memberId": "cmnu1mwn7000ij8lumxya3nux",
+        "skillTier": "bronze",
+        "ageGroup": "veteran",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:14:13.141Z",
+        "updatedAt": "2026-04-19T06:14:13.141Z"
+      },
+      {
+        "id": "cmo5df7e4000304jyv7w3wah5",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:14:21.484Z",
+        "updatedAt": "2026-04-19T06:14:21.484Z"
+      },
+      {
+        "id": "cmo5dfqi7000204l1welcm4sq",
+        "memberId": "cmnu0ypg30001j8lufje07lob",
+        "skillTier": "silver",
+        "ageGroup": "over50",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:14:46.255Z",
+        "updatedAt": "2026-04-24T16:55:27.616Z"
+      },
+      {
+        "id": "cmo5dg3rf000404jyffmeqkpu",
+        "memberId": "cmnu1wvjm0013j8lu3vyyi5sy",
+        "skillTier": "master",
+        "ageGroup": "age30to40",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:15:03.435Z",
+        "updatedAt": "2026-04-24T16:55:35.173Z"
+      },
+      {
+        "id": "cmo5dgh49000304l1rx5pze88",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "skillTier": "gold",
+        "ageGroup": "age30to40",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:15:20.745Z",
+        "updatedAt": "2026-04-24T16:55:46.801Z"
+      },
+      {
+        "id": "cmo5dgq13000404l10ens8cgz",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "skillTier": "silver",
+        "ageGroup": "age40to50",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:15:32.295Z",
+        "updatedAt": "2026-04-24T16:55:54.412Z"
+      },
+      {
+        "id": "cmo5dh1wj000504jyqfl4r01i",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "skillTier": "bronze",
+        "ageGroup": "age30to40",
+        "position": "any",
+        "createdAt": "2026-04-19T06:15:47.683Z",
+        "updatedAt": "2026-04-24T16:56:09.740Z"
+      },
+      {
+        "id": "cmo5dhgor000504l1byt3tzel",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
+        "skillTier": "bronze",
+        "ageGroup": "age30to40",
+        "position": "any",
+        "createdAt": "2026-04-19T06:16:06.843Z",
+        "updatedAt": "2026-04-24T16:56:19.363Z"
+      },
+      {
+        "id": "cmo5dhudj000604jyvc08pcmf",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "skillTier": "master",
+        "ageGroup": "veteran",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:16:24.583Z",
+        "updatedAt": "2026-04-19T06:16:24.583Z"
+      },
+      {
+        "id": "cmo5di4wr000604l1ux4aqpe6",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:16:38.235Z",
+        "updatedAt": "2026-04-19T06:16:38.235Z"
+      },
+      {
+        "id": "cmo5dix1u000704jyzgn54skd",
+        "memberId": "cmnu1tanp000vj8luc0npjafx",
+        "skillTier": "master",
+        "ageGroup": "over50",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:17:14.706Z",
+        "updatedAt": "2026-04-24T16:56:35.232Z"
+      },
+      {
+        "id": "cmo5dj9fh000804jyarb0pvw2",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "skillTier": "gold",
+        "ageGroup": "over50",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:17:30.749Z",
+        "updatedAt": "2026-04-24T16:56:55.808Z"
+      },
+      {
+        "id": "cmo5djkrl000704l10yit4nxd",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "skillTier": "gold",
+        "ageGroup": "veteran",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:17:45.441Z",
+        "updatedAt": "2026-04-19T06:17:45.441Z"
+      },
+      {
+        "id": "cmo5djum3000904jydhyr3xa7",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:17:58.203Z",
+        "updatedAt": "2026-04-19T06:17:58.203Z"
+      },
+      {
+        "id": "cmo5dk2vb000804l17fkzkpat",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "skillTier": "silver",
+        "ageGroup": "over50",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:18:08.903Z",
+        "updatedAt": "2026-04-24T16:57:23.999Z"
+      },
+      {
+        "id": "cmo5dkd3r000a04jyicojp143",
+        "memberId": "cmnu1phyj000nj8lunk52zmng",
+        "skillTier": "master",
+        "ageGroup": "age30to40",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:18:22.167Z",
+        "updatedAt": "2026-04-24T16:57:37.367Z"
+      },
+      {
+        "id": "cmo5dknp6000904l1qqrskon9",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:18:35.898Z",
+        "updatedAt": "2026-04-19T06:18:35.898Z"
+      },
+      {
+        "id": "cmo5dl0ed000b04jyy4uckwkr",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:18:52.357Z",
+        "updatedAt": "2026-04-19T06:18:52.357Z"
+      },
+      {
+        "id": "cmo5dlbfq000c04jyhgk1fduh",
+        "memberId": "cmnu1uv1l000yj8lukg6e80fm",
+        "skillTier": "master",
+        "ageGroup": "veteran",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:19:06.662Z",
+        "updatedAt": "2026-04-19T06:19:06.662Z"
+      },
+      {
+        "id": "cmo5dlkvo000d04jya65ourfc",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "skillTier": "silver",
+        "ageGroup": "over50",
+        "position": "forward",
+        "createdAt": "2026-04-19T06:19:18.900Z",
+        "updatedAt": "2026-04-24T16:57:55.427Z"
+      },
+      {
+        "id": "cmo5dm0x2000a04l13t4mzed4",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "skillTier": "gold",
+        "ageGroup": "veteran",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:19:39.686Z",
+        "updatedAt": "2026-04-19T06:19:39.686Z"
+      },
+      {
+        "id": "cmo5dmbof000e04jy4ugcwv9d",
+        "memberId": "cmnu1rkgb000rj8luuk6qrj3n",
+        "skillTier": "master",
+        "ageGroup": "veteran",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:19:53.631Z",
+        "updatedAt": "2026-04-19T06:19:53.631Z"
+      },
+      {
+        "id": "cmo5dmnne000b04l1oighyve7",
+        "memberId": "cmnu1jfhw000cj8lus04fsbk0",
+        "skillTier": "master",
+        "ageGroup": "veteran",
+        "position": "goalkeeper",
+        "createdAt": "2026-04-19T06:20:09.146Z",
+        "updatedAt": "2026-04-19T06:20:09.146Z"
+      },
+      {
+        "id": "cmo5dn84l000f04jynb25rrn4",
+        "memberId": "cmnu1rx3c000sj8luenv22wta",
+        "skillTier": "master",
+        "ageGroup": "age30to40",
+        "position": "midfielder",
+        "createdAt": "2026-04-19T06:20:35.685Z",
+        "updatedAt": "2026-04-24T16:58:12.944Z"
+      },
+      {
+        "id": "cmo5dnj7u000c04l1irr1rko3",
+        "memberId": "cmnu1wa7n0012j8luegqs1hxz",
+        "skillTier": "silver",
+        "ageGroup": "veteran",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:20:50.058Z",
+        "updatedAt": "2026-04-19T06:20:50.058Z"
+      },
+      {
+        "id": "cmo5dnsiq000g04jytj9fxefw",
+        "memberId": "cmnuloh9x000104l23n019nme",
+        "skillTier": "starter",
+        "ageGroup": "veteran",
+        "position": "any",
+        "createdAt": "2026-04-19T06:21:02.114Z",
+        "updatedAt": "2026-04-19T06:21:02.114Z"
+      },
+      {
+        "id": "cmo5dods6000d04l1buifbdx7",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "skillTier": "gold",
+        "ageGroup": "youth",
+        "position": "defender",
+        "createdAt": "2026-04-19T06:21:29.670Z",
+        "updatedAt": "2026-04-19T06:21:29.670Z"
+      },
+      {
+        "id": "cmo6nw4r2000104jszl35tv3c",
+        "memberId": "cmo6nvh5n000204kvqsxrlmi7",
+        "skillTier": "gold",
+        "ageGroup": "age30to40",
+        "position": "defender",
+        "createdAt": "2026-04-20T03:55:13.550Z",
+        "updatedAt": "2026-04-24T16:58:39.509Z"
+      },
+      {
+        "id": "cmod5jnnx000304juzpprmugh",
+        "memberId": "cmnu1iy0d000bj8lu34mbyt9q",
+        "skillTier": "silver",
+        "ageGroup": "over50",
+        "position": "any",
+        "createdAt": "2026-04-24T16:56:01.677Z",
+        "updatedAt": "2026-04-24T16:56:01.677Z"
+      },
+      {
+        "id": "cmod5l8bv000504jrbrl2v39w",
+        "memberId": "cmnu1stu5000uj8luhwwgcm6y",
+        "skillTier": "bronze",
+        "ageGroup": "age40to50",
+        "position": "any",
+        "createdAt": "2026-04-24T16:57:15.115Z",
+        "updatedAt": "2026-04-24T16:57:15.115Z"
+      }
+    ],
+    "teamSheets": [],
+    "settings": [
+      {
+        "id": "main",
+        "bankName": "",
+        "accountName": "",
+        "iban": "",
+        "accountNumber": "",
+        "swiftCode": "",
+        "defaultMatchFee": 20,
+        "defaultBigTicketShare": 30,
+        "bigTicketGroupId": "",
+        "groupName": "DADAS FC",
+        "autoDeleteDays": 7
+      }
+    ]
+  }
+}
