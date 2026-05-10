@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "timestamp": "2026-05-03T02:27:09.582Z",
+  "timestamp": "2026-05-10T02:56:38.580Z",
   "counts": {
     "users": 1,
-    "members": 40,
+    "members": 44,
     "memberGroups": 1,
-    "events": 3,
-    "eventDues": 49,
-    "payments": 51,
+    "events": 5,
+    "eventDues": 86,
+    "payments": 85,
     "purchases": 0,
     "purchaseSplits": 0
   },
@@ -340,6 +340,38 @@
         "active": false,
         "isGuest": true,
         "createdAt": "2026-04-25T07:00:48.165Z"
+      },
+      {
+        "id": "cmop79i2t000004l7kllzkemh",
+        "name": "Mujeeb",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-05-03T03:17:21.221Z"
+      },
+      {
+        "id": "cmop79iae000104l790u855cl",
+        "name": "Gokul",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-05-03T03:17:21.494Z"
+      },
+      {
+        "id": "cmop79ihb000204l7lsv8exog",
+        "name": "Ranjit",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-05-03T03:17:21.743Z"
+      },
+      {
+        "id": "cmop79iok000304l749h9n194",
+        "name": "Akshay",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-05-03T03:17:22.004Z"
       }
     ],
     "memberGroups": [
@@ -486,6 +518,26 @@
         "totalCost": 350,
         "notes": "Surplus AED 10.00 to DADAS FC fund",
         "createdAt": "2026-04-30T18:37:17.071Z"
+      },
+      {
+        "id": "cmop79iw7000404l7zldc6ayu",
+        "name": "Football Match",
+        "type": "match",
+        "date": "2026-05-03T00:00:00.000Z",
+        "perHeadFee": 20,
+        "totalCost": 350,
+        "notes": "Surplus AED 90.00 to DADAS FC fund",
+        "createdAt": "2026-05-03T03:17:22.279Z"
+      },
+      {
+        "id": "cmovuzrvr000004kz4tae576s",
+        "name": "Football Match",
+        "type": "match",
+        "date": "2026-05-07T00:00:00.000Z",
+        "perHeadFee": 20,
+        "totalCost": 350,
+        "notes": "",
+        "createdAt": "2026-05-07T19:08:15.207Z"
       }
     ],
     "eventDues": [
@@ -714,120 +766,379 @@
         "paid": false
       },
       {
-        "id": "cmooa1bwj001r04l40qv5ehwa",
+        "id": "cmopelnw3000009l5ruezlvho",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000109l5bfw8zrn9",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000209l5xcyvpthb",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1mawy000hj8lu9lljq726",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000309l5trzwd7d5",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1mwn7000ij8lumxya3nux",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000409l5eimv7gnk",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000509l59m0fiahf",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000609l5v0xgamyj",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000709l5z2d4m4ty",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000809l5646o7js9",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000909l5b3vcouma",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000a09l5q18cis9e",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000b09l5sfxintdi",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000c09l5i6kd2oti",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000d09l5ipq07aa5",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1phyj000nj8lunk52zmng",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000e09l5mxyvut6r",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000f09l5asqcr681",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnuloh9x000104l23n019nme",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000g09l5p1m14wzk",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000h09l5y016j29u",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmop79i2t000004l7kllzkemh",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000i09l5mgcr87d1",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmop79iae000104l790u855cl",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000j09l5jmeumhmm",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmop79ihb000204l7lsv8exog",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmopelnw4000k09l59k2vap4p",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "memberId": "cmop79iok000304l749h9n194",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmosvw8oh000004kyop1rlxo7",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1lgqh000fj8luxwsft303",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001s04l43s25hl9n",
+        "id": "cmosvw8oh000104kyvjbeo7o9",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1lvix000gj8luj6cqgz3k",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001t04l442361yy2",
+        "id": "cmosvw8oh000204kyoq8ni2gw",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1mwn7000ij8lumxya3nux",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001u04l4xhmpi0gg",
+        "id": "cmosvw8oh000304kyawef79v4",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu0xuwv0000j8lurjzyuhox",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001v04l4utrxxgj2",
+        "id": "cmosvw8oh000404kytceamduc",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1x6bx0014j8luged0grba",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001w04l45sbyuqbs",
+        "id": "cmosvw8oh000504kyh0artt3x",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1ns4r000jj8lutsm817bz",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001x04l4onkdo1xq",
+        "id": "cmosvw8oh000604kyxm2fnupp",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1v624000zj8lukqx31sre",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001y04l478a02zbx",
+        "id": "cmosvw8oh000704kya3uwlwm1",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnulo3by000004l2bd5qy3b3",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj001z04l4rv92sgvm",
+        "id": "cmosvw8oh000804kydcrf4srq",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1onkn000lj8lukmdinieu",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002004l4bl9mr5nk",
+        "id": "cmosvw8oh000904kypn9ek5aa",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu29kfz0015j8lutmbeykvs",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002104l4hdm005w9",
+        "id": "cmosvw8oh000a04kyzfz5h0x5",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1ui19000xj8luiwqlgzmg",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002204l4ulyejg0n",
+        "id": "cmosvw8oh000b04ky2eelphhc",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1vw4m0011j8luusi62dcy",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002304l4ppy3xbb5",
+        "id": "cmosvw8oh000c04ky8prvq60h",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1phyj000nj8lunk52zmng",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002404l4e0xn15ap",
+        "id": "cmosvw8oh000d04kypauldahf",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1qa4c000oj8lu9gfqb115",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002504l4qpqcvv3d",
+        "id": "cmosvw8oh000e04kymdmaw1s6",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu1qrhc000pj8luwng1qp6v",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002604l4bh9uar39",
+        "id": "cmosvw8oh000f04kyj201tj4l",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "memberId": "cmnu0z98b0002j8lusuqw31tl",
         "amount": 20,
         "paid": false
       },
       {
-        "id": "cmooa1bwj002704l4ee2hfkca",
+        "id": "cmosvw8oh000g04ky33n1g314",
         "eventId": "cmoltszgv000004l40l34w9qd",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000s04kz3qat8s1y",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1k20b000dj8luy9mnlxsb",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000t04kzivb6v9jl",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000u04kziq3sfbhh",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000v04kz03a8svxu",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1mawy000hj8lu9lljq726",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000w04kzx7cwrj9u",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1mwn7000ij8lumxya3nux",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000x04kzd5sju9u0",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000y04kzwbh9kxdt",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr000z04kzg4nl5063",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001004kzs2hqh0ik",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001104kzh394ssvl",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001204kzxawy7rip",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001304kz3pegbl3x",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001404kzq4t3e3qk",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001504kz7mswe8p5",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001604kzrhvnw3n7",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmovv1oyr001704kzyky5ukwc",
+        "eventId": "cmovuzrvr000004kz4tae576s",
         "memberId": "cmnu1vki70010j8lus16i5f9y",
         "amount": 20,
         "paid": false
@@ -1283,7 +1594,211 @@
         "createdAt": "2026-05-02T11:46:11.642Z"
       },
       {
-        "id": "cmooa1cfl002804l49x5viary",
+        "id": "cmopelom4000l09l52w9d7rd4",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom4000m09l5qakgoume",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom4000n09l591ax1nov",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom4000o09l5qk3jwzrx",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom4000p09l5u3oga8za",
+        "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom4000q09l5pewwanzq",
+        "memberId": "cmnulo3by000004l2bd5qy3b3",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom4000r09l5e0ft64h4",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 100,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000s09l5wnuoq72l",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000t09l5f3vxc5pc",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000u09l580mx3q39",
+        "memberId": "cmnu1phyj000nj8lunk52zmng",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000v09l5z5y9a0jy",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "amount": 50,
+        "method": "cash",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000w09l5p7q7dsf3",
+        "memberId": "cmnuloh9x000104l23n019nme",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000x09l500k7lswu",
+        "memberId": "cmop79i2t000004l7kllzkemh",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000y09l55pkozv4y",
+        "memberId": "cmop79iae000104l790u855cl",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5000z09l5dbutt972",
+        "memberId": "cmop79ihb000204l7lsv8exog",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmopelom5001009l5lv83tmxp",
+        "memberId": "cmop79iok000304l749h9n194",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/3/2026",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-03T06:42:46.876Z"
+      },
+      {
+        "id": "cmosefdax000104l7ldsjnx1d",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-05T09:01:10.809Z"
+      },
+      {
+        "id": "cmosvw989000h04ky3ziqbfqq",
         "memberId": "cmnu1lgqh000fj8luxwsft303",
         "amount": 20,
         "method": "bank_transfer",
@@ -1292,10 +1807,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002904l4cj6grva8",
+        "id": "cmosvw98a000i04kyjcmbd74u",
         "memberId": "cmnu1lvix000gj8luj6cqgz3k",
         "amount": 20,
         "method": "cash",
@@ -1304,10 +1819,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002a04l4pcjl69kj",
+        "id": "cmosvw98a000j04kyi0r8odm9",
         "memberId": "cmnu0xuwv0000j8lurjzyuhox",
         "amount": 0,
         "method": "cash",
@@ -1316,10 +1831,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002b04l4p6ty0alq",
+        "id": "cmosvw98a000k04kya1xi7r8s",
         "memberId": "cmnu1x6bx0014j8luged0grba",
         "amount": 20,
         "method": "bank_transfer",
@@ -1328,22 +1843,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002c04l4210ru94c",
-        "memberId": "cmnu1ns4r000jj8lutsm817bz",
-        "amount": 20,
-        "method": "cash",
-        "reference": "Football Match - 4/30/2026",
-        "notes": "",
-        "date": "2026-04-30T00:00:00.000Z",
-        "eventId": "cmoltszgv000004l40l34w9qd",
-        "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
-      },
-      {
-        "id": "cmooa1cfl002d04l4tnjwrjdz",
+        "id": "cmosvw98a000l04kyz4ntkqer",
         "memberId": "cmnu1v624000zj8lukqx31sre",
         "amount": 20,
         "method": "bank_transfer",
@@ -1352,10 +1855,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002e04l40bbym1av",
+        "id": "cmosvw98a000m04kydxy54m3o",
         "memberId": "cmnulo3by000004l2bd5qy3b3",
         "amount": 20,
         "method": "cash",
@@ -1364,10 +1867,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002f04l4jwu1kde5",
+        "id": "cmosvw98a000n04kygyn2esr6",
         "memberId": "cmnu1onkn000lj8lukmdinieu",
         "amount": 0,
         "method": "cash",
@@ -1376,10 +1879,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002g04l4pl1b3wjj",
+        "id": "cmosvw98a000o04kyihr26i0u",
         "memberId": "cmnu29kfz0015j8lutmbeykvs",
         "amount": 20,
         "method": "bank_transfer",
@@ -1388,10 +1891,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002h04l4b8rfner2",
+        "id": "cmosvw98a000p04kyjodomh45",
         "memberId": "cmnu1ui19000xj8luiwqlgzmg",
         "amount": 20,
         "method": "cash",
@@ -1400,10 +1903,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002i04l4wuck054j",
+        "id": "cmosvw98a000q04kymbeyfhlp",
         "memberId": "cmnu1vw4m0011j8luusi62dcy",
         "amount": 0,
         "method": "cash",
@@ -1412,10 +1915,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002j04l4qf33s8m9",
+        "id": "cmosvw98a000r04kygtux1pqy",
         "memberId": "cmnu1phyj000nj8lunk52zmng",
         "amount": 20,
         "method": "cash",
@@ -1424,10 +1927,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002k04l4s3gpp9bp",
+        "id": "cmosvw98a000s04kyjr8mak2x",
         "memberId": "cmnu1qa4c000oj8lu9gfqb115",
         "amount": 20,
         "method": "bank_transfer",
@@ -1436,10 +1939,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002l04l4zgxlpjip",
+        "id": "cmosvw98a000t04kyjczdnfjp",
         "memberId": "cmnu1qrhc000pj8luwng1qp6v",
         "amount": 20,
         "method": "cash",
@@ -1448,10 +1951,10 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
       },
       {
-        "id": "cmooa1cfl002m04l4n7iqpd0q",
+        "id": "cmosvw98a000u04kyjn9xt4ru",
         "memberId": "cmnu0z98b0002j8lusuqw31tl",
         "amount": 20,
         "method": "cash",
@@ -1460,7 +1963,223 @@
         "date": "2026-04-30T00:00:00.000Z",
         "eventId": "cmoltszgv000004l40l34w9qd",
         "category": "dadas",
-        "createdAt": "2026-05-02T11:47:13.329Z"
+        "createdAt": "2026-05-05T17:10:12.154Z"
+      },
+      {
+        "id": "cmosvw98a000v04ky0z5nwiiu",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 4/30/2026",
+        "notes": "",
+        "date": "2026-04-30T00:00:00.000Z",
+        "eventId": "cmoltszgv000004l40l34w9qd",
+        "category": "dadas",
+        "createdAt": "2026-05-05T17:10:12.154Z"
+      },
+      {
+        "id": "cmosvwnvy000w04kyjgfbxh3t",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 25,
+        "method": "cash",
+        "reference": "Adjusted: +5.00 carry forward",
+        "notes": "",
+        "date": "2026-04-30T00:00:00.000Z",
+        "eventId": "cmoltszgv000004l40l34w9qd",
+        "category": "dadas",
+        "createdAt": "2026-05-05T17:10:31.150Z"
+      },
+      {
+        "id": "cmovv1pi8001804kz0839y4s5",
+        "memberId": "cmnu1k20b000dj8luy9mnlxsb",
+        "amount": 30,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001904kzllzn02md",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 40,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001a04kzcqdt3zjo",
+        "memberId": "cmnu1mwn7000ij8lumxya3nux",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001b04kzh71g23ru",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001c04kzv7qhi3gg",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001d04kzstvahhaq",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001e04kzrwhv48ui",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001f04kzfpsqh2gc",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001g04kzbzkca2v2",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001h04kzd5qbvdcz",
+        "memberId": "cmnu1r8jk000qj8luon0nd2aq",
+        "amount": 30,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv1pi8001i04kz8lbro0jw",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 5/7/2026",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:09:45.440Z"
+      },
+      {
+        "id": "cmovv2iwr001j04kzi1cymulo",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:10:23.547Z"
+      },
+      {
+        "id": "cmovvxx5l000004l7eau501mh",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:34:48.345Z"
+      },
+      {
+        "id": "cmovvyupu000104l7lfhhpehq",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:35:31.842Z"
+      },
+      {
+        "id": "cmovvz8n2000204l7tyyeelgl",
+        "memberId": "cmnu1mawy000hj8lu9lljq726",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-05-03T00:00:00.000Z",
+        "eventId": "cmop79iw7000404l7zldc6ayu",
+        "category": "dadas",
+        "createdAt": "2026-05-07T19:35:49.886Z"
+      },
+      {
+        "id": "cmovwxgma000004l8vx5ccjw6",
+        "memberId": "cmnu1mawy000hj8lu9lljq726",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-05-07T00:00:00.000Z",
+        "eventId": "cmovuzrvr000004kz4tae576s",
+        "category": "dadas",
+        "createdAt": "2026-05-07T20:02:26.530Z"
       }
     ],
     "eventTemplates": [
@@ -1490,9 +2209,9 @@
         "memberId": "cmnu1lgqh000fj8luxwsft303",
         "skillTier": "silver",
         "ageGroup": "over50",
-        "position": "goalkeeper",
+        "position": "defender",
         "createdAt": "2026-04-19T06:12:54.707Z",
-        "updatedAt": "2026-04-24T16:54:42.096Z"
+        "updatedAt": "2026-05-03T07:13:31.692Z"
       },
       {
         "id": "cmo5ddyd1000104jyd40wpi7m",
