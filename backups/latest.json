@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "timestamp": "2026-05-31T11:56:16.568Z",
+  "timestamp": "2026-06-07T02:15:26.483Z",
   "counts": {
     "users": 1,
-    "members": 57,
+    "members": 60,
     "memberGroups": 1,
-    "events": 13,
-    "eventDues": 228,
-    "payments": 268,
+    "events": 14,
+    "eventDues": 243,
+    "payments": 283,
     "purchases": 1,
     "purchaseSplits": 21
   },
@@ -476,6 +476,30 @@
         "active": false,
         "isGuest": true,
         "createdAt": "2026-05-31T04:31:49.837Z"
+      },
+      {
+        "id": "cmpzu7tic000004jvyewy1060",
+        "name": "Mujeeb",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-06-04T18:37:17.988Z"
+      },
+      {
+        "id": "cmpzu7tov000104jvjb653je1",
+        "name": "Sudhee Shinoj",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-06-04T18:37:18.223Z"
+      },
+      {
+        "id": "cmq2fsvh1000004icckm2j2gs",
+        "name": "Sudheesh Shinoj",
+        "phone": "",
+        "active": true,
+        "isGuest": false,
+        "createdAt": "2026-06-06T14:17:04.597Z"
       }
     ],
     "memberGroups": [
@@ -722,6 +746,16 @@
         "totalCost": 350,
         "notes": "",
         "createdAt": "2026-05-31T04:18:31.276Z"
+      },
+      {
+        "id": "cmpzu7tvz000204jvdzied7te",
+        "name": "Football Match",
+        "type": "match",
+        "date": "2026-06-04T00:00:00.000Z",
+        "perHeadFee": 20,
+        "totalCost": 350,
+        "notes": "",
+        "createdAt": "2026-06-04T18:37:18.479Z"
       }
     ],
     "eventDues": [
@@ -2320,6 +2354,111 @@
         "memberId": "cmnuloh9x000104l23n019nme",
         "amount": 20,
         "paid": false
+      },
+      {
+        "id": "cmpzur99f000104lay3btb7fq",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1k20b000dj8luy9mnlxsb",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000204laypp2nxo9",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000304lap3ljdbsj",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000404lanpcpipji",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000504layaztl9mz",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu0ypg30001j8lufje07lob",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000604lavcfo6bny",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000704lauam4sgoq",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmpzu7tic000004jvyewy1060",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000804laty4ylxgm",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000904la3xkk3btf",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000a04lafe28tmmi",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000b04lasdivmlqd",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000c04laynftq1w0",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000d04lacmvsg1dp",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000e04la28g9boiv",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmpzu7tov000104jvjb653je1",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmpzur99f000f04lagho1gb0r",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "paid": false
       }
     ],
     "eventExpenses": [
@@ -2352,6 +2491,7 @@
         "description": "Dadas Football fund",
         "amount": 3983,
         "category": "other",
+        "profile": "dadas",
         "date": "2026-04-18T00:00:00.000Z",
         "reference": "",
         "notes": "",
@@ -5736,6 +5876,186 @@
         "eventId": "cmpt9s0ks000104k3li2y93c0",
         "category": "dadas",
         "createdAt": "2026-05-31T04:43:55.609Z"
+      },
+      {
+        "id": "cmpzur9s1000g04lao5ae4ehe",
+        "memberId": "cmnu1k20b000dj8luy9mnlxsb",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000h04lasslb139g",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000i04la7jhrca5j",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000j04lav2hwpfuc",
+        "memberId": "cmnu0ypg30001j8lufje07lob",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000k04laevdiizid",
+        "memberId": "cmnu1v624000zj8lukqx31sre",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000l04lah35bvkl1",
+        "memberId": "cmnu1onkn000lj8lukmdinieu",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000m04lab77f1tiy",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000n04laskbuutgi",
+        "memberId": "cmnu1ui19000xj8luiwqlgzmg",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000o04lavq62wp01",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000p04lae2pz3xrw",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 40,
+        "method": "bank_transfer",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000q04la1zjvl85q",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmpzur9s1000r04la6blt63c7",
+        "memberId": "cmpzu7tov000104jvjb653je1",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 6/4/2026",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-04T18:52:25.537Z"
+      },
+      {
+        "id": "cmq0aju8d000004jrx4ksrjk8",
+        "memberId": "cmnu1lgqh000fj8luxwsft303",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-05T02:14:32.653Z"
+      },
+      {
+        "id": "cmq0ajyvk000104jrzbp8ksvb",
+        "memberId": "cmpzu7tic000004jvyewy1060",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-05T02:14:38.672Z"
+      },
+      {
+        "id": "cmq0al1em000204jr2fssaqsk",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 0,
+        "method": "cash",
+        "reference": "Adjusted: -20.00 carry forward",
+        "notes": "",
+        "date": "2026-06-04T00:00:00.000Z",
+        "eventId": "cmpzu7tvz000204jvdzied7te",
+        "category": "dadas",
+        "createdAt": "2026-06-05T02:15:28.606Z"
       }
     ],
     "eventTemplates": [
