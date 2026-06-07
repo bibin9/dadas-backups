@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "timestamp": "2026-06-07T09:48:53.561Z",
+  "timestamp": "2026-06-07T09:56:36.833Z",
   "counts": {
     "users": 1,
-    "members": 60,
+    "members": 55,
     "memberGroups": 1,
     "events": 15,
     "eventDues": 261,
@@ -334,22 +334,6 @@
         "createdAt": "2026-04-25T04:19:23.301Z"
       },
       {
-        "id": "cmodzq1lx000004lavwk5wi16",
-        "name": "Mujeeb",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-04-25T07:00:48.165Z"
-      },
-      {
-        "id": "cmop79i2t000004l7kllzkemh",
-        "name": "Mujeeb",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-05-03T03:17:21.221Z"
-      },
-      {
         "id": "cmop79iae000104l790u855cl",
         "name": "Gokul",
         "phone": "",
@@ -380,14 +364,6 @@
         "active": false,
         "isGuest": true,
         "createdAt": "2026-05-17T04:27:06.568Z"
-      },
-      {
-        "id": "cmp99x513000304jvl5pdqoco",
-        "name": "Ranjit",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-05-17T04:27:06.807Z"
       },
       {
         "id": "cmpj9cszq000004jpfdeq9nk8",
@@ -470,14 +446,6 @@
         "createdAt": "2026-05-31T04:31:49.837Z"
       },
       {
-        "id": "cmpzu7tic000004jvyewy1060",
-        "name": "Mujeeb",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-06-04T18:37:17.988Z"
-      },
-      {
         "id": "cmpzu7tov000104jvjb653je1",
         "name": "Sudhee Shinoj",
         "phone": "",
@@ -492,14 +460,6 @@
         "active": true,
         "isGuest": false,
         "createdAt": "2026-06-06T14:17:04.597Z"
-      },
-      {
-        "id": "cmq39cf5h000004ih3axirrqn",
-        "name": "Ranjit",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-06-07T04:04:05.429Z"
       }
     ],
     "memberGroups": [
@@ -1220,7 +1180,7 @@
       {
         "id": "cmp5vd9jy001d04jrzt7si88p",
         "eventId": "cmop79iw7000404l7zldc6ayu",
-        "memberId": "cmop79i2t000004l7kllzkemh",
+        "memberId": "cmodtygpx000304lbr05rpidj",
         "amount": 20,
         "paid": false
       },
@@ -1465,7 +1425,7 @@
       {
         "id": "cmp9jmawk002y04l2oxa3wn7f",
         "eventId": "cmodzq1tv000104lak1tseznc",
-        "memberId": "cmodzq1lx000004lavwk5wi16",
+        "memberId": "cmodtygpx000304lbr05rpidj",
         "amount": 20,
         "paid": false
       },
@@ -1556,7 +1516,7 @@
       {
         "id": "cmpjosiwc007s04l54l2lexg9",
         "eventId": "cmp99x58p000404jvxsfun2yc",
-        "memberId": "cmp99x513000304jvl5pdqoco",
+        "memberId": "cmop79ihb000204l7lsv8exog",
         "amount": 20,
         "paid": false
       },
@@ -2403,7 +2363,7 @@
       {
         "id": "cmpzur99f000704lauam4sgoq",
         "eventId": "cmpzu7tvz000204jvdzied7te",
-        "memberId": "cmpzu7tic000004jvyewy1060",
+        "memberId": "cmodtygpx000304lbr05rpidj",
         "amount": 20,
         "paid": false
       },
@@ -2592,7 +2552,7 @@
       {
         "id": "cmq39cfia000l04ihsjbjfugz",
         "eventId": "cmq39cfcz000104ihzagfm2lj",
-        "memberId": "cmq39cf5h000004ih3axirrqn",
+        "memberId": "cmop79ihb000204l7lsv8exog",
         "amount": 20,
         "paid": false
       }
@@ -3591,7 +3551,7 @@
       },
       {
         "id": "cmp5vda4v001w04jr9m59yr5d",
-        "memberId": "cmop79i2t000004l7kllzkemh",
+        "memberId": "cmodtygpx000304lbr05rpidj",
         "amount": 20,
         "method": "cash",
         "reference": "Football Match - 5/3/2026",
@@ -4035,7 +3995,7 @@
       },
       {
         "id": "cmp9jmbiz003d04l2cb9jnx5x",
-        "memberId": "cmodzq1lx000004lavwk5wi16",
+        "memberId": "cmodtygpx000304lbr05rpidj",
         "amount": 20,
         "method": "cash",
         "reference": "Football Match - 4/25/2026",
@@ -4191,7 +4151,7 @@
       },
       {
         "id": "cmpjosjdf008f04l57rn1gjhp",
-        "memberId": "cmp99x513000304jvl5pdqoco",
+        "memberId": "cmop79ihb000204l7lsv8exog",
         "amount": 20,
         "method": "cash",
         "reference": "Football Match - 5/17/2026",
@@ -6159,7 +6119,7 @@
       },
       {
         "id": "cmq0ajyvk000104jrzbp8ksvb",
-        "memberId": "cmpzu7tic000004jvyewy1060",
+        "memberId": "cmodtygpx000304lbr05rpidj",
         "amount": 20,
         "method": "cash",
         "reference": "",
