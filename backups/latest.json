@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-06-07T10:28:01.257Z",
+  "timestamp": "2026-06-07T10:37:40.939Z",
   "counts": {
     "users": 1,
     "members": 55,
@@ -6317,6 +6317,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:12:24.907Z",
         "updatedAt": "2026-04-19T06:12:24.907Z"
       },
@@ -6326,6 +6328,8 @@
         "skillTier": "bronze",
         "ageGroup": "over50",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:12:54.707Z",
         "updatedAt": "2026-06-07T09:38:24.548Z"
       },
@@ -6335,6 +6339,8 @@
         "skillTier": "master",
         "ageGroup": "veteran",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:13:23.125Z",
         "updatedAt": "2026-04-20T03:52:53.739Z"
       },
@@ -6344,6 +6350,8 @@
         "skillTier": "silver",
         "ageGroup": "age30to40",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:13:52.411Z",
         "updatedAt": "2026-04-24T16:55:10.776Z"
       },
@@ -6353,6 +6361,8 @@
         "skillTier": "bronze",
         "ageGroup": "veteran",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:14:13.141Z",
         "updatedAt": "2026-04-19T06:14:13.141Z"
       },
@@ -6362,6 +6372,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:14:21.484Z",
         "updatedAt": "2026-04-19T06:14:21.484Z"
       },
@@ -6371,6 +6383,8 @@
         "skillTier": "silver",
         "ageGroup": "over50",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:14:46.255Z",
         "updatedAt": "2026-04-24T16:55:27.616Z"
       },
@@ -6380,6 +6394,8 @@
         "skillTier": "master",
         "ageGroup": "age30to40",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:15:03.435Z",
         "updatedAt": "2026-04-24T16:55:35.173Z"
       },
@@ -6389,6 +6405,8 @@
         "skillTier": "gold",
         "ageGroup": "age30to40",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:15:20.745Z",
         "updatedAt": "2026-04-24T16:55:46.801Z"
       },
@@ -6398,6 +6416,8 @@
         "skillTier": "silver",
         "ageGroup": "age40to50",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:15:32.295Z",
         "updatedAt": "2026-04-24T16:55:54.412Z"
       },
@@ -6407,6 +6427,8 @@
         "skillTier": "bronze",
         "ageGroup": "age30to40",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:15:47.683Z",
         "updatedAt": "2026-04-24T16:56:09.740Z"
       },
@@ -6416,6 +6438,8 @@
         "skillTier": "bronze",
         "ageGroup": "age30to40",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:16:06.843Z",
         "updatedAt": "2026-06-07T09:40:17.387Z"
       },
@@ -6425,6 +6449,8 @@
         "skillTier": "master",
         "ageGroup": "veteran",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:16:24.583Z",
         "updatedAt": "2026-04-19T06:16:24.583Z"
       },
@@ -6434,6 +6460,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:16:38.235Z",
         "updatedAt": "2026-04-19T06:16:38.235Z"
       },
@@ -6443,6 +6471,8 @@
         "skillTier": "master",
         "ageGroup": "over50",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:17:14.706Z",
         "updatedAt": "2026-04-24T16:56:35.232Z"
       },
@@ -6452,6 +6482,8 @@
         "skillTier": "gold",
         "ageGroup": "over50",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:17:30.749Z",
         "updatedAt": "2026-04-24T16:56:55.808Z"
       },
@@ -6461,6 +6493,8 @@
         "skillTier": "gold",
         "ageGroup": "veteran",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:17:45.441Z",
         "updatedAt": "2026-04-19T06:17:45.441Z"
       },
@@ -6470,6 +6504,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:17:58.203Z",
         "updatedAt": "2026-04-19T06:17:58.203Z"
       },
@@ -6479,6 +6515,8 @@
         "skillTier": "silver",
         "ageGroup": "over50",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:18:08.903Z",
         "updatedAt": "2026-04-24T16:57:23.999Z"
       },
@@ -6488,6 +6526,8 @@
         "skillTier": "master",
         "ageGroup": "age30to40",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:18:22.167Z",
         "updatedAt": "2026-04-24T16:57:37.367Z"
       },
@@ -6497,6 +6537,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:18:35.898Z",
         "updatedAt": "2026-04-19T06:18:35.898Z"
       },
@@ -6506,6 +6548,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:18:52.357Z",
         "updatedAt": "2026-04-19T06:18:52.357Z"
       },
@@ -6515,6 +6559,8 @@
         "skillTier": "master",
         "ageGroup": "veteran",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:19:06.662Z",
         "updatedAt": "2026-04-19T06:19:06.662Z"
       },
@@ -6524,6 +6570,8 @@
         "skillTier": "silver",
         "ageGroup": "over50",
         "position": "forward",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:19:18.900Z",
         "updatedAt": "2026-04-24T16:57:55.427Z"
       },
@@ -6533,6 +6581,8 @@
         "skillTier": "gold",
         "ageGroup": "veteran",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:19:39.686Z",
         "updatedAt": "2026-04-19T06:19:39.686Z"
       },
@@ -6542,6 +6592,8 @@
         "skillTier": "master",
         "ageGroup": "veteran",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:19:53.631Z",
         "updatedAt": "2026-04-19T06:19:53.631Z"
       },
@@ -6551,6 +6603,8 @@
         "skillTier": "master",
         "ageGroup": "veteran",
         "position": "goalkeeper",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:20:09.146Z",
         "updatedAt": "2026-04-19T06:20:09.146Z"
       },
@@ -6560,6 +6614,8 @@
         "skillTier": "master",
         "ageGroup": "age30to40",
         "position": "midfielder",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:20:35.685Z",
         "updatedAt": "2026-04-24T16:58:12.944Z"
       },
@@ -6569,6 +6625,8 @@
         "skillTier": "silver",
         "ageGroup": "veteran",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:20:50.058Z",
         "updatedAt": "2026-04-19T06:20:50.058Z"
       },
@@ -6578,6 +6636,8 @@
         "skillTier": "starter",
         "ageGroup": "veteran",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:21:02.114Z",
         "updatedAt": "2026-04-19T06:21:02.114Z"
       },
@@ -6587,6 +6647,8 @@
         "skillTier": "gold",
         "ageGroup": "youth",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:21:29.670Z",
         "updatedAt": "2026-04-19T06:21:29.670Z"
       },
@@ -6596,6 +6658,8 @@
         "skillTier": "gold",
         "ageGroup": "age30to40",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-20T03:55:13.550Z",
         "updatedAt": "2026-04-24T16:58:39.509Z"
       },
@@ -6605,6 +6669,8 @@
         "skillTier": "silver",
         "ageGroup": "over50",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-24T16:56:01.677Z",
         "updatedAt": "2026-04-24T16:56:01.677Z"
       },
@@ -6614,6 +6680,8 @@
         "skillTier": "bronze",
         "ageGroup": "age40to50",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-04-24T16:57:15.115Z",
         "updatedAt": "2026-04-24T16:57:15.115Z"
       },
@@ -6623,6 +6691,8 @@
         "skillTier": "bronze",
         "ageGroup": "age30to40",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-06-07T06:58:11.536Z",
         "updatedAt": "2026-06-07T06:58:11.536Z"
       },
@@ -6632,6 +6702,8 @@
         "skillTier": "starter",
         "ageGroup": "age40to50",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-06-07T09:38:45.508Z",
         "updatedAt": "2026-06-07T09:39:20.061Z"
       },
@@ -6641,6 +6713,8 @@
         "skillTier": "starter",
         "ageGroup": "age40to50",
         "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-06-07T09:39:35.869Z",
         "updatedAt": "2026-06-07T09:39:35.869Z"
       },
@@ -6650,6 +6724,8 @@
         "skillTier": "bronze",
         "ageGroup": "age40to50",
         "position": "defender",
+        "isCaptain": false,
+        "availability": "fit",
         "createdAt": "2026-06-07T09:39:48.903Z",
         "updatedAt": "2026-06-07T09:39:48.903Z"
       }
