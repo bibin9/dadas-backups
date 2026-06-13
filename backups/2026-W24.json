@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-06-12T19:10:34.143Z",
+  "timestamp": "2026-06-13T07:54:51.677Z",
   "counts": {
     "users": 1,
     "members": 55,
@@ -6679,10 +6679,10 @@
         "skillTier": "silver",
         "ageGroup": "age40to50",
         "position": "defender",
-        "isCaptain": false,
+        "isCaptain": true,
         "availability": "tired",
         "createdAt": "2026-04-19T06:12:24.907Z",
-        "updatedAt": "2026-06-07T10:39:32.976Z"
+        "updatedAt": "2026-06-12T19:41:33.842Z"
       },
       {
         "id": "cmo5ddcfn000004l17gjhatao",
@@ -6690,54 +6690,54 @@
         "skillTier": "bronze",
         "ageGroup": "over50",
         "position": "defender",
-        "isCaptain": false,
+        "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:12:54.707Z",
-        "updatedAt": "2026-06-07T09:38:24.548Z"
+        "updatedAt": "2026-06-12T19:41:10.080Z"
       },
       {
         "id": "cmo5ddyd1000104jyd40wpi7m",
         "memberId": "cmnu1lvix000gj8luj6cqgz3k",
         "skillTier": "master",
         "ageGroup": "age40to50",
-        "position": "any",
+        "position": "cm",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:13:23.125Z",
-        "updatedAt": "2026-06-07T10:42:29.289Z"
+        "updatedAt": "2026-06-12T19:20:09.586Z"
       },
       {
         "id": "cmo5dekyj000204jy0u0thz8n",
         "memberId": "cmnu1mawy000hj8lu9lljq726",
-        "skillTier": "silver",
+        "skillTier": "gold",
         "ageGroup": "age30to40",
-        "position": "defender",
-        "isCaptain": false,
+        "position": "cb",
+        "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:13:52.411Z",
-        "updatedAt": "2026-04-24T16:55:10.776Z"
+        "updatedAt": "2026-06-12T19:41:16.810Z"
       },
       {
         "id": "cmo5df0yd000104l1f4f7b3li",
         "memberId": "cmnu1mwn7000ij8lumxya3nux",
         "skillTier": "bronze",
-        "ageGroup": "veteran",
-        "position": "defender",
-        "isCaptain": false,
+        "ageGroup": "age40to50",
+        "position": "lb",
+        "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:14:13.141Z",
-        "updatedAt": "2026-04-19T06:14:13.141Z"
+        "updatedAt": "2026-06-12T19:41:41.851Z"
       },
       {
         "id": "cmo5df7e4000304jyv7w3wah5",
         "memberId": "cmnu0xuwv0000j8lurjzyuhox",
         "skillTier": "silver",
         "ageGroup": "age40to50",
-        "position": "defender",
+        "position": "rwb",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:14:21.484Z",
-        "updatedAt": "2026-06-07T10:42:37.262Z"
+        "updatedAt": "2026-06-12T19:31:10.769Z"
       },
       {
         "id": "cmo5dfqi7000204l1welcm4sq",
@@ -6755,77 +6755,77 @@
         "memberId": "cmnu1wvjm0013j8lu3vyyi5sy",
         "skillTier": "master",
         "ageGroup": "age30to40",
-        "position": "forward",
-        "isCaptain": false,
+        "position": "cam",
+        "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:15:03.435Z",
-        "updatedAt": "2026-04-24T16:55:35.173Z"
+        "updatedAt": "2026-06-12T19:24:04.023Z"
       },
       {
         "id": "cmo5dgh49000304l1rx5pze88",
         "memberId": "cmnu1x6bx0014j8luged0grba",
         "skillTier": "gold",
         "ageGroup": "age30to40",
-        "position": "midfielder",
+        "position": "lm",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:15:20.745Z",
-        "updatedAt": "2026-06-07T10:42:51.958Z"
+        "updatedAt": "2026-06-12T19:23:27.579Z"
       },
       {
         "id": "cmo5dgq13000404l10ens8cgz",
         "memberId": "cmnu1ns4r000jj8lutsm817bz",
         "skillTier": "silver",
         "ageGroup": "age40to50",
-        "position": "defender",
+        "position": "rb",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:15:32.295Z",
-        "updatedAt": "2026-06-07T10:42:57.497Z"
+        "updatedAt": "2026-06-12T19:23:47.318Z"
       },
       {
         "id": "cmo5dh1wj000504jyqfl4r01i",
         "memberId": "cmnu1v624000zj8lukqx31sre",
-        "skillTier": "silver",
+        "skillTier": "bronze",
         "ageGroup": "age40to50",
-        "position": "any",
-        "isCaptain": false,
-        "availability": "tired",
+        "position": "rwb",
+        "isCaptain": true,
+        "availability": "fit",
         "createdAt": "2026-04-19T06:15:47.683Z",
-        "updatedAt": "2026-06-11T13:31:22.495Z"
+        "updatedAt": "2026-06-12T19:41:27.642Z"
       },
       {
         "id": "cmo5dhgor000504l1byt3tzel",
         "memberId": "cmnu1o6yu000kj8lum5fqj3dh",
         "skillTier": "bronze",
         "ageGroup": "age30to40",
-        "position": "midfielder",
+        "position": "rm",
         "isCaptain": true,
         "availability": "tired",
         "createdAt": "2026-04-19T06:16:06.843Z",
-        "updatedAt": "2026-06-07T10:44:55.929Z"
+        "updatedAt": "2026-06-12T19:25:29.116Z"
       },
       {
         "id": "cmo5dhudj000604jyvc08pcmf",
         "memberId": "cmnulo3by000004l2bd5qy3b3",
         "skillTier": "master",
-        "ageGroup": "veteran",
-        "position": "midfielder",
+        "ageGroup": "age40to50",
+        "position": "cam",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-04-19T06:16:24.583Z",
-        "updatedAt": "2026-04-19T06:16:24.583Z"
+        "updatedAt": "2026-06-12T19:25:51.371Z"
       },
       {
         "id": "cmo5di4wr000604l1ux4aqpe6",
         "memberId": "cmnu1onkn000lj8lukmdinieu",
         "skillTier": "silver",
-        "ageGroup": "veteran",
-        "position": "forward",
+        "ageGroup": "age40to50",
+        "position": "ss",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-04-19T06:16:38.235Z",
-        "updatedAt": "2026-04-19T06:16:38.235Z"
+        "updatedAt": "2026-06-12T19:26:31.425Z"
       },
       {
         "id": "cmo5dix1u000704jyzgn54skd",
@@ -6843,33 +6843,33 @@
         "memberId": "cmnu29kfz0015j8lutmbeykvs",
         "skillTier": "gold",
         "ageGroup": "over50",
-        "position": "defender",
+        "position": "cb",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:17:30.749Z",
-        "updatedAt": "2026-06-07T10:43:10.489Z"
+        "updatedAt": "2026-06-12T19:27:43.550Z"
       },
       {
         "id": "cmo5djkrl000704l10yit4nxd",
         "memberId": "cmnu1ui19000xj8luiwqlgzmg",
         "skillTier": "gold",
         "ageGroup": "age40to50",
-        "position": "forward",
+        "position": "st",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:17:45.441Z",
-        "updatedAt": "2026-06-07T10:43:16.059Z"
+        "updatedAt": "2026-06-12T19:29:54.323Z"
       },
       {
         "id": "cmo5djum3000904jydhyr3xa7",
         "memberId": "cmnu1vw4m0011j8luusi62dcy",
         "skillTier": "silver",
-        "ageGroup": "veteran",
-        "position": "forward",
+        "ageGroup": "age40to50",
+        "position": "ss",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-04-19T06:17:58.203Z",
-        "updatedAt": "2026-04-19T06:17:58.203Z"
+        "updatedAt": "2026-06-12T19:28:23.034Z"
       },
       {
         "id": "cmo5dk2vb000804l17fkzkpat",
@@ -6878,53 +6878,53 @@
         "ageGroup": "over50",
         "position": "forward",
         "isCaptain": false,
-        "availability": "fit",
+        "availability": "tired",
         "createdAt": "2026-04-19T06:18:08.903Z",
-        "updatedAt": "2026-04-24T16:57:23.999Z"
+        "updatedAt": "2026-06-12T19:43:41.646Z"
       },
       {
         "id": "cmo5dkd3r000a04jyicojp143",
         "memberId": "cmnu1phyj000nj8lunk52zmng",
         "skillTier": "master",
         "ageGroup": "age30to40",
-        "position": "midfielder",
+        "position": "cam",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:18:22.167Z",
-        "updatedAt": "2026-06-07T10:43:42.181Z"
+        "updatedAt": "2026-06-12T19:29:01.691Z"
       },
       {
         "id": "cmo5dknp6000904l1qqrskon9",
         "memberId": "cmnu1qa4c000oj8lu9gfqb115",
         "skillTier": "silver",
         "ageGroup": "age40to50",
-        "position": "midfielder",
+        "position": "cdm",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:18:35.898Z",
-        "updatedAt": "2026-06-07T10:43:48.533Z"
+        "updatedAt": "2026-06-12T19:29:18.493Z"
       },
       {
         "id": "cmo5dl0ed000b04jyy4uckwkr",
         "memberId": "cmnu1qrhc000pj8luwng1qp6v",
         "skillTier": "silver",
-        "ageGroup": "veteran",
-        "position": "forward",
+        "ageGroup": "age40to50",
+        "position": "ss",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-04-19T06:18:52.357Z",
-        "updatedAt": "2026-04-19T06:18:52.357Z"
+        "updatedAt": "2026-06-12T19:29:39.093Z"
       },
       {
         "id": "cmo5dlbfq000c04jyhgk1fduh",
         "memberId": "cmnu1uv1l000yj8lukg6e80fm",
         "skillTier": "master",
         "ageGroup": "age40to50",
-        "position": "midfielder",
+        "position": "cam",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:19:06.662Z",
-        "updatedAt": "2026-06-07T10:44:33.183Z"
+        "updatedAt": "2026-06-12T19:30:22.920Z"
       },
       {
         "id": "cmo5dlkvo000d04jya65ourfc",
@@ -6942,22 +6942,22 @@
         "memberId": "cmnu0z98b0002j8lusuqw31tl",
         "skillTier": "gold",
         "ageGroup": "age40to50",
-        "position": "defender",
+        "position": "lwb",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:19:39.686Z",
-        "updatedAt": "2026-06-07T10:43:36.250Z"
+        "updatedAt": "2026-06-12T19:30:59.828Z"
       },
       {
         "id": "cmo5dmbof000e04jy4ugcwv9d",
         "memberId": "cmnu1rkgb000rj8luuk6qrj3n",
         "skillTier": "master",
         "ageGroup": "age40to50",
-        "position": "midfielder",
+        "position": "cam",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:19:53.631Z",
-        "updatedAt": "2026-06-07T10:44:07.527Z"
+        "updatedAt": "2026-06-12T19:32:21.331Z"
       },
       {
         "id": "cmo5dmnne000b04l1oighyve7",
@@ -6975,22 +6975,22 @@
         "memberId": "cmnu1rx3c000sj8luenv22wta",
         "skillTier": "master",
         "ageGroup": "age30to40",
-        "position": "midfielder",
+        "position": "cam",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-19T06:20:35.685Z",
-        "updatedAt": "2026-06-07T10:43:56.326Z"
+        "updatedAt": "2026-06-12T19:32:33.647Z"
       },
       {
         "id": "cmo5dnj7u000c04l1irr1rko3",
         "memberId": "cmnu1wa7n0012j8luegqs1hxz",
         "skillTier": "silver",
-        "ageGroup": "veteran",
-        "position": "defender",
+        "ageGroup": "age40to50",
+        "position": "lwb",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-04-19T06:20:50.058Z",
-        "updatedAt": "2026-04-19T06:20:50.058Z"
+        "updatedAt": "2026-06-12T19:33:48.900Z"
       },
       {
         "id": "cmo5dnsiq000g04jytj9fxefw",
@@ -7007,23 +7007,23 @@
         "id": "cmo5dods6000d04l1buifbdx7",
         "memberId": "cmnu1vki70010j8lus16i5f9y",
         "skillTier": "gold",
-        "ageGroup": "youth",
-        "position": "defender",
+        "ageGroup": "under30",
+        "position": "lm",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-04-19T06:21:29.670Z",
-        "updatedAt": "2026-04-19T06:21:29.670Z"
+        "updatedAt": "2026-06-12T19:34:16.903Z"
       },
       {
         "id": "cmo6nw4r2000104jszl35tv3c",
         "memberId": "cmo6nvh5n000204kvqsxrlmi7",
         "skillTier": "gold",
         "ageGroup": "age30to40",
-        "position": "defender",
+        "position": "lm",
         "isCaptain": true,
         "availability": "fit",
         "createdAt": "2026-04-20T03:55:13.550Z",
-        "updatedAt": "2026-06-07T10:42:25.469Z"
+        "updatedAt": "2026-06-12T19:33:22.658Z"
       },
       {
         "id": "cmod5jnnx000304juzpprmugh",
@@ -7052,22 +7052,22 @@
         "memberId": "cmq2fsvh1000004icckm2j2gs",
         "skillTier": "bronze",
         "ageGroup": "age30to40",
-        "position": "any",
+        "position": "forward",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-06-07T06:58:11.536Z",
-        "updatedAt": "2026-06-07T06:58:11.536Z"
+        "updatedAt": "2026-06-12T19:31:49.779Z"
       },
       {
         "id": "cmq3lat1f000004jlntrx0n0j",
         "memberId": "cmpjp433a00am04l5gegm7rkb",
         "skillTier": "starter",
         "ageGroup": "age40to50",
-        "position": "defender",
+        "position": "rb",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-06-07T09:38:45.508Z",
-        "updatedAt": "2026-06-07T09:39:20.061Z"
+        "updatedAt": "2026-06-12T19:20:43.063Z"
       },
       {
         "id": "cmq3lbvwd000104l5qj1uo0ed",
@@ -7085,22 +7085,33 @@
         "memberId": "cmpjcbfua000y04jy2wwo64jw",
         "skillTier": "bronze",
         "ageGroup": "age40to50",
-        "position": "defender",
+        "position": "lb",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-06-07T09:39:48.903Z",
-        "updatedAt": "2026-06-07T09:39:48.903Z"
+        "updatedAt": "2026-06-12T19:28:07.107Z"
       },
       {
         "id": "cmq9ik7nf000004lafve8lpsu",
         "memberId": "cmq9ij7jx000004l7dvsusqn0",
         "skillTier": "legend",
         "ageGroup": "age40to50",
-        "position": "any",
+        "position": "cam",
         "isCaptain": false,
         "availability": "fit",
         "createdAt": "2026-06-11T13:08:42.555Z",
-        "updatedAt": "2026-06-11T14:47:45.341Z"
+        "updatedAt": "2026-06-12T19:24:51.624Z"
+      },
+      {
+        "id": "cmqbbbwlr000104l522wpe0rn",
+        "memberId": "cmpjcarn5000x04jypdicqosd",
+        "skillTier": "silver",
+        "ageGroup": "age30to40",
+        "position": "cm",
+        "isCaptain": false,
+        "availability": "fit",
+        "createdAt": "2026-06-12T19:21:50.031Z",
+        "updatedAt": "2026-06-12T19:21:50.031Z"
       }
     ],
     "teamSheets": [],
