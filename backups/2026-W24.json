@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-06-13T07:54:51.677Z",
+  "timestamp": "2026-06-14T02:01:17.749Z",
   "counts": {
     "users": 1,
     "members": 55,
@@ -6678,11 +6678,12 @@
         "memberId": "cmnu1k20b000dj8luy9mnlxsb",
         "skillTier": "silver",
         "ageGroup": "age40to50",
-        "position": "defender",
+        "position": "cb",
         "isCaptain": true,
         "availability": "tired",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:12:24.907Z",
-        "updatedAt": "2026-06-12T19:41:33.842Z"
+        "updatedAt": "2026-06-13T08:22:29.247Z"
       },
       {
         "id": "cmo5ddcfn000004l17gjhatao",
@@ -6692,8 +6693,9 @@
         "position": "defender",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:12:54.707Z",
-        "updatedAt": "2026-06-12T19:41:10.080Z"
+        "updatedAt": "2026-06-13T08:06:47.344Z"
       },
       {
         "id": "cmo5ddyd1000104jyd40wpi7m",
@@ -6703,8 +6705,9 @@
         "position": "cm",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:13:23.125Z",
-        "updatedAt": "2026-06-12T19:20:09.586Z"
+        "updatedAt": "2026-06-13T08:06:41.469Z"
       },
       {
         "id": "cmo5dekyj000204jy0u0thz8n",
@@ -6714,6 +6717,7 @@
         "position": "cb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:13:52.411Z",
         "updatedAt": "2026-06-12T19:41:16.810Z"
       },
@@ -6725,8 +6729,9 @@
         "position": "lb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:14:13.141Z",
-        "updatedAt": "2026-06-12T19:41:41.851Z"
+        "updatedAt": "2026-06-13T08:07:03.928Z"
       },
       {
         "id": "cmo5df7e4000304jyv7w3wah5",
@@ -6736,8 +6741,9 @@
         "position": "rwb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:14:21.484Z",
-        "updatedAt": "2026-06-12T19:31:10.769Z"
+        "updatedAt": "2026-06-13T08:07:17.852Z"
       },
       {
         "id": "cmo5dfqi7000204l1welcm4sq",
@@ -6747,8 +6753,9 @@
         "position": "forward",
         "isCaptain": true,
         "availability": "tired",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:14:46.255Z",
-        "updatedAt": "2026-06-07T10:42:42.779Z"
+        "updatedAt": "2026-06-13T08:07:25.112Z"
       },
       {
         "id": "cmo5dg3rf000404jyffmeqkpu",
@@ -6758,8 +6765,9 @@
         "position": "cam",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:15:03.435Z",
-        "updatedAt": "2026-06-12T19:24:04.023Z"
+        "updatedAt": "2026-06-13T08:08:01.422Z"
       },
       {
         "id": "cmo5dgh49000304l1rx5pze88",
@@ -6769,8 +6777,9 @@
         "position": "lm",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:15:20.745Z",
-        "updatedAt": "2026-06-12T19:23:27.579Z"
+        "updatedAt": "2026-06-13T08:08:09.787Z"
       },
       {
         "id": "cmo5dgq13000404l10ens8cgz",
@@ -6780,8 +6789,9 @@
         "position": "rb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:15:32.295Z",
-        "updatedAt": "2026-06-12T19:23:47.318Z"
+        "updatedAt": "2026-06-13T08:08:19.225Z"
       },
       {
         "id": "cmo5dh1wj000504jyqfl4r01i",
@@ -6791,8 +6801,9 @@
         "position": "rwb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:15:47.683Z",
-        "updatedAt": "2026-06-12T19:41:27.642Z"
+        "updatedAt": "2026-06-13T08:08:33.169Z"
       },
       {
         "id": "cmo5dhgor000504l1byt3tzel",
@@ -6801,20 +6812,22 @@
         "ageGroup": "age30to40",
         "position": "rm",
         "isCaptain": true,
-        "availability": "tired",
+        "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:16:06.843Z",
-        "updatedAt": "2026-06-12T19:25:29.116Z"
+        "updatedAt": "2026-06-13T08:09:18.080Z"
       },
       {
         "id": "cmo5dhudj000604jyvc08pcmf",
         "memberId": "cmnulo3by000004l2bd5qy3b3",
         "skillTier": "master",
-        "ageGroup": "age40to50",
+        "ageGroup": "age30to40",
         "position": "cam",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:16:24.583Z",
-        "updatedAt": "2026-06-12T19:25:51.371Z"
+        "updatedAt": "2026-06-13T08:09:38.280Z"
       },
       {
         "id": "cmo5di4wr000604l1ux4aqpe6",
@@ -6824,8 +6837,9 @@
         "position": "ss",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:16:38.235Z",
-        "updatedAt": "2026-06-12T19:26:31.425Z"
+        "updatedAt": "2026-06-13T08:09:55.514Z"
       },
       {
         "id": "cmo5dix1u000704jyzgn54skd",
@@ -6835,8 +6849,9 @@
         "position": "midfielder",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:17:14.706Z",
-        "updatedAt": "2026-06-07T10:43:03.951Z"
+        "updatedAt": "2026-06-13T08:10:06.543Z"
       },
       {
         "id": "cmo5dj9fh000804jyarb0pvw2",
@@ -6846,6 +6861,7 @@
         "position": "cb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:17:30.749Z",
         "updatedAt": "2026-06-12T19:27:43.550Z"
       },
@@ -6857,6 +6873,7 @@
         "position": "st",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:17:45.441Z",
         "updatedAt": "2026-06-12T19:29:54.323Z"
       },
@@ -6868,6 +6885,7 @@
         "position": "ss",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:17:58.203Z",
         "updatedAt": "2026-06-12T19:28:23.034Z"
       },
@@ -6878,9 +6896,10 @@
         "ageGroup": "over50",
         "position": "forward",
         "isCaptain": false,
-        "availability": "tired",
+        "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:18:08.903Z",
-        "updatedAt": "2026-06-12T19:43:41.646Z"
+        "updatedAt": "2026-06-13T08:11:08.782Z"
       },
       {
         "id": "cmo5dkd3r000a04jyicojp143",
@@ -6890,8 +6909,9 @@
         "position": "cam",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:18:22.167Z",
-        "updatedAt": "2026-06-12T19:29:01.691Z"
+        "updatedAt": "2026-06-13T08:11:25.394Z"
       },
       {
         "id": "cmo5dknp6000904l1qqrskon9",
@@ -6901,8 +6921,9 @@
         "position": "cdm",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:18:35.898Z",
-        "updatedAt": "2026-06-12T19:29:18.493Z"
+        "updatedAt": "2026-06-13T08:11:47.218Z"
       },
       {
         "id": "cmo5dl0ed000b04jyy4uckwkr",
@@ -6912,8 +6933,9 @@
         "position": "ss",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:18:52.357Z",
-        "updatedAt": "2026-06-12T19:29:39.093Z"
+        "updatedAt": "2026-06-13T08:12:03.043Z"
       },
       {
         "id": "cmo5dlbfq000c04jyhgk1fduh",
@@ -6923,8 +6945,9 @@
         "position": "cam",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:19:06.662Z",
-        "updatedAt": "2026-06-12T19:30:22.920Z"
+        "updatedAt": "2026-06-13T08:12:44.773Z"
       },
       {
         "id": "cmo5dlkvo000d04jya65ourfc",
@@ -6934,8 +6957,9 @@
         "position": "forward",
         "isCaptain": true,
         "availability": "tired",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:19:18.900Z",
-        "updatedAt": "2026-06-07T10:44:24.902Z"
+        "updatedAt": "2026-06-13T08:12:56.241Z"
       },
       {
         "id": "cmo5dm0x2000a04l13t4mzed4",
@@ -6945,8 +6969,9 @@
         "position": "lwb",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:19:39.686Z",
-        "updatedAt": "2026-06-12T19:30:59.828Z"
+        "updatedAt": "2026-06-13T08:13:16.369Z"
       },
       {
         "id": "cmo5dmbof000e04jy4ugcwv9d",
@@ -6956,8 +6981,9 @@
         "position": "cam",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:19:53.631Z",
-        "updatedAt": "2026-06-12T19:32:21.331Z"
+        "updatedAt": "2026-06-13T08:13:40.509Z"
       },
       {
         "id": "cmo5dmnne000b04l1oighyve7",
@@ -6967,6 +6993,7 @@
         "position": "goalkeeper",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:20:09.146Z",
         "updatedAt": "2026-06-07T10:44:01.860Z"
       },
@@ -6978,8 +7005,9 @@
         "position": "cam",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-04-19T06:20:35.685Z",
-        "updatedAt": "2026-06-12T19:32:33.647Z"
+        "updatedAt": "2026-06-13T08:14:14.737Z"
       },
       {
         "id": "cmo5dnj7u000c04l1irr1rko3",
@@ -6989,6 +7017,7 @@
         "position": "lwb",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-19T06:20:50.058Z",
         "updatedAt": "2026-06-12T19:33:48.900Z"
       },
@@ -6996,12 +7025,13 @@
         "id": "cmo5dnsiq000g04jytj9fxefw",
         "memberId": "cmnuloh9x000104l23n019nme",
         "skillTier": "starter",
-        "ageGroup": "veteran",
+        "ageGroup": "age40to50",
         "position": "any",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-04-19T06:21:02.114Z",
-        "updatedAt": "2026-04-19T06:21:02.114Z"
+        "updatedAt": "2026-06-13T08:14:41.768Z"
       },
       {
         "id": "cmo5dods6000d04l1buifbdx7",
@@ -7011,8 +7041,9 @@
         "position": "lm",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-19T06:21:29.670Z",
-        "updatedAt": "2026-06-12T19:34:16.903Z"
+        "updatedAt": "2026-06-13T08:14:48.058Z"
       },
       {
         "id": "cmo6nw4r2000104jszl35tv3c",
@@ -7022,8 +7053,9 @@
         "position": "lm",
         "isCaptain": true,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-04-20T03:55:13.550Z",
-        "updatedAt": "2026-06-12T19:33:22.658Z"
+        "updatedAt": "2026-06-13T08:14:24.947Z"
       },
       {
         "id": "cmod5jnnx000304juzpprmugh",
@@ -7033,6 +7065,7 @@
         "position": "any",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-24T16:56:01.677Z",
         "updatedAt": "2026-04-24T16:56:01.677Z"
       },
@@ -7044,6 +7077,7 @@
         "position": "any",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-04-24T16:57:15.115Z",
         "updatedAt": "2026-04-24T16:57:15.115Z"
       },
@@ -7055,8 +7089,9 @@
         "position": "forward",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-06-07T06:58:11.536Z",
-        "updatedAt": "2026-06-12T19:31:49.779Z"
+        "updatedAt": "2026-06-13T08:13:26.250Z"
       },
       {
         "id": "cmq3lat1f000004jlntrx0n0j",
@@ -7066,8 +7101,9 @@
         "position": "rb",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "less",
         "createdAt": "2026-06-07T09:38:45.508Z",
-        "updatedAt": "2026-06-12T19:20:43.063Z"
+        "updatedAt": "2026-06-13T08:07:10.291Z"
       },
       {
         "id": "cmq3lbvwd000104l5qj1uo0ed",
@@ -7077,6 +7113,7 @@
         "position": "any",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "ok",
         "createdAt": "2026-06-07T09:39:35.869Z",
         "updatedAt": "2026-06-07T09:39:35.869Z"
       },
@@ -7088,8 +7125,9 @@
         "position": "lb",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "no",
         "createdAt": "2026-06-07T09:39:48.903Z",
-        "updatedAt": "2026-06-12T19:28:07.107Z"
+        "updatedAt": "2026-06-13T08:10:40.519Z"
       },
       {
         "id": "cmq9ik7nf000004lafve8lpsu",
@@ -7099,19 +7137,33 @@
         "position": "cam",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "verygood",
         "createdAt": "2026-06-11T13:08:42.555Z",
-        "updatedAt": "2026-06-12T19:24:51.624Z"
+        "updatedAt": "2026-06-13T08:08:45.181Z"
       },
       {
         "id": "cmqbbbwlr000104l522wpe0rn",
         "memberId": "cmpjcarn5000x04jypdicqosd",
         "skillTier": "silver",
-        "ageGroup": "age30to40",
+        "ageGroup": "age40to50",
         "position": "cm",
         "isCaptain": false,
         "availability": "fit",
+        "ballControl": "good",
         "createdAt": "2026-06-12T19:21:50.031Z",
-        "updatedAt": "2026-06-12T19:21:50.031Z"
+        "updatedAt": "2026-06-13T08:07:51.251Z"
+      },
+      {
+        "id": "cmqc2y3nt000g04jsmj8khs63",
+        "memberId": "cmpj9ct66000104jp0d342dwo",
+        "skillTier": "silver",
+        "ageGroup": "age30to40",
+        "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
+        "ballControl": "less",
+        "createdAt": "2026-06-13T08:14:55.241Z",
+        "updatedAt": "2026-06-13T08:14:55.241Z"
       }
     ],
     "teamSheets": [],
