@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "timestamp": "2026-08-09T02:15:27.285Z",
+  "timestamp": "2026-08-16T02:15:26.708Z",
   "counts": {
     "users": 1,
-    "members": 72,
+    "members": 73,
     "memberGroups": 1,
-    "events": 34,
-    "eventDues": 575,
-    "payments": 666,
+    "events": 35,
+    "eventDues": 591,
+    "payments": 677,
     "purchases": 3,
     "purchaseSplits": 63
   },
@@ -406,14 +406,6 @@
         "createdAt": "2026-05-24T11:30:06.886Z"
       },
       {
-        "id": "cmplat9mk000004jrn7jaibsq",
-        "name": "Abhijit",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-05-25T14:25:19.868Z"
-      },
-      {
         "id": "cmpt9xf4a001a04k3zhnv74wp",
         "name": "Rixon",
         "phone": "",
@@ -502,14 +494,6 @@
         "createdAt": "2026-07-10T16:18:43.716Z"
       },
       {
-        "id": "cmrxlga18000204juiu74m483",
-        "name": "Shabeer",
-        "phone": "",
-        "active": false,
-        "isGuest": true,
-        "createdAt": "2026-07-23T14:15:48.428Z"
-      },
-      {
         "id": "cmrxljzmc000004l2gr6r0kbg",
         "name": "Abhijit Sijo",
         "phone": "",
@@ -596,6 +580,30 @@
         "active": false,
         "isGuest": true,
         "createdAt": "2026-08-07T18:11:39.924Z"
+      },
+      {
+        "id": "cmsroo2eb000004l71dzuyrl9",
+        "name": "Shareef",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-08-13T15:38:55.907Z"
+      },
+      {
+        "id": "cmsroog8o000004l6x4xcscak",
+        "name": "Ribin",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-08-13T15:39:13.848Z"
+      },
+      {
+        "id": "cmsroqfn0000204l6bk53lrcg",
+        "name": "Abhilash",
+        "phone": "",
+        "active": false,
+        "isGuest": true,
+        "createdAt": "2026-08-13T15:40:46.380Z"
       }
     ],
     "memberGroups": [
@@ -1052,6 +1060,16 @@
         "totalCost": 300,
         "notes": "",
         "createdAt": "2026-08-08T17:09:47.694Z"
+      },
+      {
+        "id": "cmst5g1tj000004js83t24qz2",
+        "name": "Football Match",
+        "type": "match",
+        "date": "2026-08-13T00:00:00.000Z",
+        "perHeadFee": 20,
+        "totalCost": 350,
+        "notes": "",
+        "createdAt": "2026-08-14T16:16:21.559Z"
       }
     ],
     "eventDues": [
@@ -3121,13 +3139,6 @@
         "paid": false
       },
       {
-        "id": "cmqev5h82000004l76gn5pseb",
-        "eventId": "cmqerfouy000004lahn47j6rn",
-        "memberId": "cmplat9mk000004jrn7jaibsq",
-        "amount": 20,
-        "paid": false
-      },
-      {
         "id": "cmqev5h82000104l76d1ltryh",
         "eventId": "cmqerfouy000004lahn47j6rn",
         "memberId": "cmnu1kwev000ej8lu1glgh3tn",
@@ -5077,6 +5088,125 @@
         "id": "cmskmv355001604l6z3rzqzzf",
         "eventId": "cms7whxpw000104jv7z7j7uo8",
         "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000104jsoqmza64e",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000204js7omupwnv",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000304jsswvcd3tw",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000404jstkua6apm",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1ns4r000jj8lutsm817bz",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000504jscantnzme",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000604jshdoyveas",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000704jsnclbeoam",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000804jskn2hb0lj",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000904jsy344gfyr",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000a04jsujvwgrtd",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000b04jsgjj4ld0r",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1jfhw000cj8lus04fsbk0",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000c04jsz4ze4peo",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmnu1vki70010j8lus16i5f9y",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000d04jscg95ztgc",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmrxljzmc000004l2gr6r0kbg",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000e04jsr5yeznq3",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cms7hnaki000204jvyts6l7vk",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000f04jsxs9suxqg",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmsroqfn0000204l6bk53lrcg",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000g04jsemvm9h8v",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmsroo2eb000004l71dzuyrl9",
+        "amount": 20,
+        "paid": false
+      },
+      {
+        "id": "cmst5g1z9000h04js20674jq5",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "memberId": "cmsroog8o000004l6x4xcscak",
         "amount": 20,
         "paid": false
       }
@@ -9808,18 +9938,6 @@
         "createdAt": "2026-06-15T07:00:01.707Z"
       },
       {
-        "id": "cmqey9s0b000004jr9hl8cy6l",
-        "memberId": "cmplat9mk000004jrn7jaibsq",
-        "amount": 20,
-        "method": "bank_transfer",
-        "reference": "",
-        "notes": "",
-        "date": "2026-06-15T00:00:00.000Z",
-        "eventId": "cmqerfouy000004lahn47j6rn",
-        "category": "dadas",
-        "createdAt": "2026-06-15T08:27:20.459Z"
-      },
-      {
         "id": "cmqey9xct000104jrt7rsz0mb",
         "memberId": "cmnu0xuwv0000j8lurjzyuhox",
         "amount": 20,
@@ -13586,6 +13704,150 @@
         "eventId": "cms7whxpw000104jv7z7j7uo8",
         "category": "dadas",
         "createdAt": "2026-08-08T17:14:01.732Z"
+      },
+      {
+        "id": "cmst5g2xj000i04jsivrqbe3a",
+        "memberId": "cmnu1lvix000gj8luj6cqgz3k",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 8/13/2026",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-14T16:16:22.999Z"
+      },
+      {
+        "id": "cmst5g2xj000j04jsjjaw2854",
+        "memberId": "cmnu0xuwv0000j8lurjzyuhox",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 8/13/2026",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-14T16:16:22.999Z"
+      },
+      {
+        "id": "cmst5g2xj000k04jsal9hat7k",
+        "memberId": "cmnu1x6bx0014j8luged0grba",
+        "amount": 20,
+        "method": "cash",
+        "reference": "Football Match - 8/13/2026",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-14T16:16:22.999Z"
+      },
+      {
+        "id": "cmst5g2xj000l04jstfuyh0qz",
+        "memberId": "cmnu29kfz0015j8lutmbeykvs",
+        "amount": 20,
+        "method": "bank_transfer",
+        "reference": "Football Match - 8/13/2026",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-14T16:16:22.999Z"
+      },
+      {
+        "id": "cmst5g2xj000m04js55n1ca89",
+        "memberId": "cmnu1p222000mj8lu2o4e3hvb",
+        "amount": 0,
+        "method": "credit",
+        "reference": "Football Match - 8/13/2026",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-14T16:16:22.999Z"
+      },
+      {
+        "id": "cmst5g2xj000n04jsjq6vgk4d",
+        "memberId": "cmnu1qa4c000oj8lu9gfqb115",
+        "amount": 40,
+        "method": "cash",
+        "reference": "Football Match - 8/13/2026",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-14T16:16:22.999Z"
+      },
+      {
+        "id": "cmstqu74f000004l2i58vvs1x",
+        "memberId": "cmnu1qrhc000pj8luwng1qp6v",
+        "amount": 40,
+        "method": "cash",
+        "reference": "Adjusted: +20.00 carry forward",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-15T02:15:13.551Z"
+      },
+      {
+        "id": "cmstque4c000104l25o9hibuc",
+        "memberId": "cmnu0z98b0002j8lusuqw31tl",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-15T02:15:22.620Z"
+      },
+      {
+        "id": "cmstquspa000204l25s7cdfjz",
+        "memberId": "cmnu1vw4m0011j8luusi62dcy",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-15T02:15:41.518Z"
+      },
+      {
+        "id": "cmstqv2qt000304l20ccn3yhn",
+        "memberId": "cmrxljzmc000004l2gr6r0kbg",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-15T02:15:54.533Z"
+      },
+      {
+        "id": "cmstqvbj6000404l2prfkteh5",
+        "memberId": "cms7hnaki000204jvyts6l7vk",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-15T02:16:05.922Z"
+      },
+      {
+        "id": "cmstqvg7s000504l2lwx6dw70",
+        "memberId": "cmsroog8o000004l6x4xcscak",
+        "amount": 20,
+        "method": "cash",
+        "reference": "",
+        "notes": "",
+        "date": "2026-08-13T00:00:00.000Z",
+        "eventId": "cmst5g1tj000004js83t24qz2",
+        "category": "dadas",
+        "createdAt": "2026-08-15T02:16:11.992Z"
       }
     ],
     "eventTemplates": [
@@ -14174,19 +14436,6 @@
         "updatedAt": "2026-07-10T16:18:43.973Z"
       },
       {
-        "id": "cmrxlga7i000304jujk6nslcs",
-        "memberId": "cmrxlga18000204juiu74m483",
-        "skillTier": "gold",
-        "ageGroup": "age30to40",
-        "position": "midfielder",
-        "isCaptain": false,
-        "availability": "fit",
-        "ballControl": "good",
-        "runningSpeed": "fast",
-        "createdAt": "2026-07-23T14:15:48.654Z",
-        "updatedAt": "2026-07-24T17:54:02.860Z"
-      },
-      {
         "id": "cmrxljzta000104l2ul7y1wx8",
         "memberId": "cmrxljzmc000004l2gr6r0kbg",
         "skillTier": "silver",
@@ -14302,6 +14551,45 @@
         "runningSpeed": "medium",
         "createdAt": "2026-08-07T18:11:40.151Z",
         "updatedAt": "2026-08-07T18:11:40.151Z"
+      },
+      {
+        "id": "cmsroo2l1000104l72e5npoof",
+        "memberId": "cmsroo2eb000004l71dzuyrl9",
+        "skillTier": "silver",
+        "ageGroup": "age30to40",
+        "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
+        "ballControl": "ok",
+        "runningSpeed": "medium",
+        "createdAt": "2026-08-13T15:38:56.149Z",
+        "updatedAt": "2026-08-13T15:38:56.149Z"
+      },
+      {
+        "id": "cmsroogfd000104l6t2qv5ssy",
+        "memberId": "cmsroog8o000004l6x4xcscak",
+        "skillTier": "silver",
+        "ageGroup": "age30to40",
+        "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
+        "ballControl": "ok",
+        "runningSpeed": "medium",
+        "createdAt": "2026-08-13T15:39:14.089Z",
+        "updatedAt": "2026-08-13T15:39:14.089Z"
+      },
+      {
+        "id": "cmsroqfte000304l6p41apcfx",
+        "memberId": "cmsroqfn0000204l6bk53lrcg",
+        "skillTier": "silver",
+        "ageGroup": "age30to40",
+        "position": "any",
+        "isCaptain": false,
+        "availability": "fit",
+        "ballControl": "ok",
+        "runningSpeed": "medium",
+        "createdAt": "2026-08-13T15:40:46.611Z",
+        "updatedAt": "2026-08-13T15:40:46.611Z"
       }
     ],
     "teamSheets": [],
